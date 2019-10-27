@@ -11,3 +11,7 @@ Our Apps show advertisements, thus your Google Advertisement Device ID is used t
 In case you do not agree to this, we kindly ask you to uninstall our Apps.
 
 For more information about advertisements in Apps: https://policies.google.com/technologies/ads
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. 
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
